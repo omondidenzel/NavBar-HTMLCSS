@@ -1,0 +1,18 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #dddddd;
+    width: 20%;
+}
+
+li a{
+    text-decoration: none;
+    padding: 8px 16px;
+    display: block;
+}
+
+li a:hover{
+    background-color: #555;
+    color: white;
+}
